@@ -44,7 +44,7 @@
   * yarn add socket.io
 
 # Images
-![github-small](https://user-images.githubusercontent.com/70285547/92416023-ea035580-f131-11ea-91cc-e3655b24a118.png)
-![github-small](https://user-images.githubusercontent.com/70285547/92416230-efad6b00-f132-11ea-8ba2-5f82b448c679.png)
+![github-small](https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png)
+![github-small](https://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png)
 
 
