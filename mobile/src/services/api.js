@@ -1,7 +1,10 @@
 import axios from 'axios';
+import utils from './utils';
+
+console.log( utils );
 
 const api = axios.create({
-    baseURL: 'http://k9-p2h.anonymous.mobile.exp.direct:3333',
+    baseURL: utils.serverURL(),
 });
 
 export default api;
