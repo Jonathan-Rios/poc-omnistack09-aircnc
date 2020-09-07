@@ -1,6 +1,6 @@
 # React JS, React Native, NodeJS e MongoDB
 
-## Proof of Concept - baseado no aplicativo Tinder, utilizando de forma resumida:
+## Proof of Concept - utilizando de forma resumida:
 
 ### Front End
   * React.js
@@ -29,13 +29,13 @@
   * yarn add axios
   * yarn add socket.io-client
 
-### Frontend
+### Front End
   * yarn add axios
   * yarn add socket.io
   * yarn add react-router-dom
   * yarn add socket.io-client
 
-### Backend 
+### Back End 
   * yarn add express
   * yarn add nodemon -D
   * yarn add mongoose
@@ -44,6 +44,10 @@
   * yarn add socket.io
 
 # Images
-<img src="https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png" height="400" width="1000">
-<img src="https://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png" height="450" width="1000">
+
+### Desktop
+<img src="https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png" height="300" width="1000">
+
+### Mobile
+<img src="https://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png" height="350" width="1000">
 
