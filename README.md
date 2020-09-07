@@ -44,6 +44,6 @@
   * yarn add socket.io
 
 # Images
-<img src="https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png" height="150" width="150">
-<img src="httpshttps://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png" height="150" width="150">
+<img src="https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png" height="400" width="1000">
+<img src="httpshttps://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png" height="400" width="1000">
 
