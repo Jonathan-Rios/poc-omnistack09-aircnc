@@ -43,7 +43,7 @@
   * yarn add cors
   * yarn add socket.io
 
-# Images
+# Imagens
 
 ### Desktop
 <img src="https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png" height="350" width="1000">
