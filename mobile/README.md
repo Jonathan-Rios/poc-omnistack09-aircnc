@@ -1,4 +1,5 @@
-# Front-end Mobile
+# Comandos utilizados & dependências
+
   * npm install -g expo-cli
   * expo install react-native-gesture-handler
   * expo install react-native-reanimated
