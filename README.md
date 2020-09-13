@@ -38,7 +38,6 @@
   * ES6+
   * Propriedades e Eventos
 
-
 # Dependências do Projeto
 
 ## Front-end Web
@@ -53,7 +52,7 @@ Veja em [backend/README.md](./backend) para informações sobre o Back-end.
 ## Insomnia
 Para testar, instale o Insomnia
 * clique na `Workspace` → `Import/Export` → `Import Data` → `From File` 
-* Selecione o arquivo `Insomnia_omnistack08.json` deste repositório.
+* Selecione o arquivo `Insomnia_omnistack09.json` deste repositório.
 
 # Imagens
 
@@ -64,6 +63,6 @@ Para testar, instale o Insomnia
 
 ### Mobile
 <p align="center">
-<img src="https://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png" height="400" width="1000">
+  <img src="https://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png" height="400" width="1000">
 </p>
 
