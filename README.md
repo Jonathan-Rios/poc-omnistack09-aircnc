@@ -21,11 +21,9 @@
 
 ## Proof of Concept - utilizando de forma resumida:
 
-### Front-end Web
-  * React.js
-
-### Front-end Mobile
-  * React Native
+### Front-end 
+  * Web - React.js
+  * Mobile - React Native
   
 ### Back-end
   * NodeJS
