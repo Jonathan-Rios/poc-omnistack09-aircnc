@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/expo--CLI-3.26.2-informational?logo=expo"></img>
   </a>
 </p>
-
 # React JS, React Native, NodeJS e MongoDB
 
 ## Proof of Concept - utilizando de forma resumida:
@@ -40,35 +39,32 @@
   * ES6+
   * Propriedades e Eventos
 
-## Dependências do Projeto
 
-### Front-end Mobile
-  * npm install -g expo-cli
-  * expo install react-native-gesture-handler
-  * expo install react-native-reanimated
-  * yarn add react-navigation
-  * yarn add axios
-  * yarn add socket.io-client
+# Dependências do Projeto
 
-### Front-end Web
-  * yarn add axios
-  * yarn add socket.io
-  * yarn add react-router-dom
-  * yarn add socket.io-client
+## Front-end Web
+Veja em [frontend/README.md](./frontend) para informações sobre o Front-end Web.
 
-### Back-end 
-  * yarn add express
-  * yarn add nodemon -D
-  * yarn add mongoose
-  * yarn add multer
-  * yarn add cors
-  * yarn add socket.io
+## Front-end Mobile
+Veja em [mobile/README.md](./mobile) para informações sobre o Front-end Mobile.
+
+## Back-end 
+Veja em [backend/README.md](./backend) para informações sobre o Back-end.
+
+## Insomnia
+Para testar, instale o Insomnia
+* clique na `Workspace` → `Import/Export` → `Import Data` → `From File` 
+* Selecione o arquivo `Insomnia_omnistack08.json` deste repositório.
 
 # Imagens
 
 ### Web
-<img src="https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png" height="350" width="1000">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png" height="350" width="1000">
+</p>
 
 ### Mobile
+<p align="center">
 <img src="https://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png" height="400" width="1000">
+</p>
 
