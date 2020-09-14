@@ -66,3 +66,4 @@ Para testar, instale o Insomnia
   <img src="https://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png" height="400" width="1000">
 </p>
 
+[MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
